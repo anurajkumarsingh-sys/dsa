@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0605-can-place-flowers) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
