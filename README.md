@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0605-can-place-flowers) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
