@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3536-maximum-product-of-two-digits](https://github.com/anurajkumarsingh-sys/dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1021-remove-outermost-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/anurajkumarsingh-sys/dsa/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
