@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0605-can-place-flowers) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
 | ------- |
