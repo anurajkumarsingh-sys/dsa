@@ -9,6 +9,11 @@ class Solution {
             }
         }
         
-        return count <= 1;
+        if (count <= 1) {
+    return true;
+} 
+else {
+    return false;
+}
     }
 }
