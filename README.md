@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0605-can-place-flowers](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0605-can-place-flowers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Greedy
