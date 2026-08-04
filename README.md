@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anurajkumarsingh-sys/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3731-find-missing-elements](https://github.com/anurajkumarsingh-sys/dsa/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/anurajkumarsingh-sys/dsa/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/anurajkumarsingh-sys/dsa/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anurajkumarsingh-sys/dsa/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/anurajkumarsingh-sys/dsa/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
